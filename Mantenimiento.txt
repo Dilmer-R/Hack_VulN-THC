@@ -1,0 +1,24 @@
+# APUNTES DE MANTENIMIENTO DEL SOFTWARE EN BUSCA DE BUGS
+
+1. Info del software:
+
+- Nombre:
+        Hack_VulN-THC(WEB).
+- Versión:
+        1.0.0
+
+- Descripción:
+        El propósito de este script 
+        es automatizar los comandos de sqlmap
+        para así falicitar la tarea a quien 
+        use dicho software(sqlmap).
+
+- Autor:
+        By Dilmer-R :D
+
+- Instalación y Ejecución:
+        Visitar el readme.md 
+        del repo para ver instrucciones.
+
+2. Info de errores: 
+        No hay bugs hasta ahora :D
